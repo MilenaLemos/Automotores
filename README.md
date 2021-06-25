@@ -1,3 +1,3 @@
 # Automotores
 
-Proyeco de registro de automotores, simulación de DNRPA.
+Proyecto de registro de automotores, simulación de DNRPA.
